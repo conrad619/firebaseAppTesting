@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBaseAppTest</string>
+    <array name="genres">
+        <item>Shooter</item>
+        <item>Platform</item>
+        <item>Adventure</item>
+        <item>Puzzle</item>
+    </array>
+</resources>
